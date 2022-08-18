@@ -25,5 +25,5 @@ spec:
           ports:
             - containerPort: 8888
           env:
-            - name: BPL_JVM_THREADS_COUNT
+            - name: BPL_JVM_THREAD_COUNT
               value: "50"
