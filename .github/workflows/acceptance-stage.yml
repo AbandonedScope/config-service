@@ -7,7 +7,7 @@ on:
 concurrency: acceptance
 
 env:
-  OWNER: AbandonedScope
+  OWNER: abandonedscope
   REGISTRY: ghcr.io
   APP_REPO: config-service
   DEPLOY_REPO: polar-deployment
